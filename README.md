@@ -2,7 +2,7 @@
 
 Need help? For questions, feedback, or technical support about Curling Ai, please contact us:
 
-**Email:** [YOUR_SUPPORT_EMAIL](mailto:developbat@gmail.com)
+**Email:** [developbat@gmail.com](mailto:developbat@gmail.com)
 
 We’ll do our best to reply within a few days.
 
